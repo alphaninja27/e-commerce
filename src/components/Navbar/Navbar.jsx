@@ -35,7 +35,7 @@ const PrimarySearchAppBar = ({ totalItems }) => {
       <AppBar position="fixed" className={classes.appBar} color="inherit">
         <Toolbar>
           <Typography component={Link} to="/" variant="h6" className={classes.title} color="inherit">
-            <img src={logo} alt="commerce.js" height="25px" className={classes.image} /> Website Name
+            <img src={logo} alt="commerce.js" height="25px" className={classes.image} /> ReipEAT GUD
           </Typography>
           <Typography component={Link} to="/products" variant="h6" className={classes.title} color="inherit">
             Products 
